@@ -1,4 +1,4 @@
-package treesort
+package mapsort
 
 //!+
 type tree struct {
